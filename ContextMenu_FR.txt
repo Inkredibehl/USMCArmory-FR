@@ -1,0 +1,6 @@
+ContextMenu_FR = {
+	ContextMenu_UseStraps = "Utiliser les sangles.",
+	ContextMenu_RemoveStraps = "Utiliser sans les sangles",
+	ContextMenu_Interceptor_Pouches = "Utiliser sans les sangles",
+	ContextMenu_Interceptor_Pouches_Straps = "Utiliser les sangles"
+} 

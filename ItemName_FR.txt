@@ -1,0 +1,23 @@
+ItemName_FR = {
+/* USMC ARMORY */
+	/* ARMOR */
+    ItemName_Base.Interceptor_Armor = "Gilet pare-balles Interceptor avec épaulettes",
+    ItemName_Base.Interceptor_Armor_s = "Gilet pare-balles Interceptor",
+    ItemName_Base.Interceptor_Armor_v = "Gilet blindé Interceptor",
+	
+	/* POUNCHES */
+    ItemName_Base.Interceptor_Pouches = "Poches Tactiques",
+    ItemName_Base.Interceptor_Pouches_Straps = "Poches Tactiques avec sangles",
+	
+	/* HELMET */
+    ItemName_Base.Hat_PASGT_Helmet = "Casque PASGT",
+	ItemName_Base.Hat_TPASGT_Helmet = "Casque AC",
+	
+	/* MARPAT */
+    ItemName_Base.Marpat_Jacket_w = "Veste MARPAT",
+	ItemName_Base.Marpat_Jacket_d = "Veste MARPAT",
+	ItemName_Base.Marpat_Pants_w = "Pantalon MARPAT",
+	ItemName_Base.Marpat_Pants_d = "Pantalon MARPAT",
+	ItemName_Base.Hat_USMC_Cap_w = "Casquette Marine",
+	ItemName_Base.Hat_USMC_Cap_d = "Casquette Marine",
+}
